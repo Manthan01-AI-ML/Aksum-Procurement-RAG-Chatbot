@@ -1,0 +1,6 @@
+SKU_Code,Category,Description,UoM,MOQ,LeadTimeDays,PreferredSupplier
+STL-TMT-12,Steel,TMT Bar Fe-500 12mm,MT,10,7,Shakti Steels Pvt Ltd
+STL-COIL-SS,Stainless Steel,SS Coil 304 Grade,MT,5,12,Ravi Metals Ltd
+POLY-HDPE-90,Polymers,HDPE Pipe 90mm,Mtr,100,10,Bharat Polymers
+CHEM-SULPH-98,Chemicals,Sulphuric Acid 98%,MT,2,5,GreenChem Ltd
+MRO-BEAR-6205,MRO,Bearing 6205 2RS,Nos,50,3,SKF India Ltd

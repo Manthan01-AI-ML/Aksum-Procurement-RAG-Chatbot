@@ -1,0 +1,6 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimension": 384,
+  "total_vectors": 6,
+  "index_type": "IndexFlatIP"
+}

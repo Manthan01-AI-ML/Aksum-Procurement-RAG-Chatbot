@@ -1,0 +1,16 @@
+Invoice No: AKS-INV-2025-001
+Date: 05-Sep-2025
+
+Buyer: Aksum Trademart Pvt. Ltd.
+Supplier: Shakti Steels Pvt. Ltd.
+
+Item: TMT Bars Fe-500, 12mm
+HSN Code: 72142019
+Quantity: 20 MT
+Rate: ₹52,000 / MT
+Total: ₹10,40,000
+
+GST @18%: ₹1,87,200
+Grand Total: ₹12,27,200
+
+Payment Terms: 90% within 30 days, 10% retention post 60 days.
