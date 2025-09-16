@@ -63,10 +63,6 @@ Extractive fallback: regex + overlap heuristics
 
 LLM layer: Plug-in → OpenAI GPT, Hugging Face pipeline, or Ollama (local Mistral/LLM3/phi3-mini)
 
-🖥️ Demo Screenshots
-
-(Add actual screenshots from your Streamlit app here)
-
 Example Query:
 
 “What is the penalty for late delivery of TMT bars?”
