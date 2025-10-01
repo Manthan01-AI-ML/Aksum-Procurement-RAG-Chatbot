@@ -7,6 +7,8 @@ Q. What problem does this solve?
 
 A.Cuts manual lookup time in procurement (penalties, GST, approvals), enabling instant answers.
 
+NOTE - This project is uploaded as a prototype to show the main idea of what my company’s tech team and I built, and to highlight the parts I personally worked on. I can’t share the full repository because of confidentiality and agreements with my company.
+
 🚀 Project Overview
 
 Procurement teams often waste hours searching through:
